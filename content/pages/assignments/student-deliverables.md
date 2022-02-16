@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 5f5879b8-6c88-b3aa-8236-d65edb406dc1
 title: Student Deliverables
 uid: 3564d9f9-2ff6-25e1-3b30-fd1512b79ede
