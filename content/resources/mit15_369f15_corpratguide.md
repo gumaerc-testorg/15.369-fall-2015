@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5f5879b8-6c88-b3aa-8236-d65edb406dc1
 resourcetype: Document
 title: Corporate Entrepreneurship Interview Guide - 15.369 Fall 2015
 uid: 81915155-e372-0645-9bb0-864401b190e9

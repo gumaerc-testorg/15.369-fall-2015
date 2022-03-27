@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 859c0470-06ed-ebec-b5d8-28a13583a61c
 resourcetype: Document
 title: MIT15_369F15_Pre-Reading
 uid: f24ec4bb-e69a-99b5-9a0b-df570e9c82e5

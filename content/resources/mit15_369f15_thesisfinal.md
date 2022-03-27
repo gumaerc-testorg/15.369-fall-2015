@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 6903d02e-efc7-da39-3620-74e0f24ce1ae
 resourcetype: Document
 title: "\"How to Apply Entrepreneurial Tools to Corporations\u2014Easily!\" MIT Sloan\
   \ Thesis, June 2015."

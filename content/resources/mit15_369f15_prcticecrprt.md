@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 859c0470-06ed-ebec-b5d8-28a13583a61c
 resourcetype: Document
 title: 'Monograph: "Notes on the Practice of Corporate Entrepreneurship" - 15.369
   - Fall 2015'

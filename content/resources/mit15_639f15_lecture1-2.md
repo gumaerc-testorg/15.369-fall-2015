@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f8eb7c14-01a3-3db1-a928-6be3e5dfc578
 resourcetype: Document
 title: Lectures 1-2 Uncertainty - Entrepreneurship in Large Organizations - 15.369
   - Fall 2015

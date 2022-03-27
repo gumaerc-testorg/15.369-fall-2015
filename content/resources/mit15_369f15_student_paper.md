@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5f5879b8-6c88-b3aa-8236-d65edb406dc1
 resourcetype: Document
 title: Entrepreneurship at Google - 15.369 Fall 2015
 uid: e4d2b2aa-6b44-6c97-eda3-989c02872cd9

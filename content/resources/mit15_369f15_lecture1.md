@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f8eb7c14-01a3-3db1-a928-6be3e5dfc578
 resourcetype: Document
 title: 'Lecture 1: Introduction - 15.369 Fall 2015'
 uid: 2cf7ec65-09da-6b7b-c483-541ca55360d7
