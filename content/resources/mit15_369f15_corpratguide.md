@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding corporate entrepreneurship
   interview guide. '
-file: /media/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/81915155e37206459bb0864401b190e9_MIT15_369F15_CorpratGuide.pdf
+file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/81915155e37206459bb0864401b190e9_MIT15_369F15_CorpratGuide.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: Corporate Entrepreneurship Interview Guide - 15.369 Fall 2015
 uid: 81915155-e372-0645-9bb0-864401b190e9
 ---
+This file contains information regarding corporate entrepreneurship interview guide. 
+

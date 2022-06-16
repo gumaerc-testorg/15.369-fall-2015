@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains examples of the term paper assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,5 +16,5 @@ Student Deliverables
 
 ### Examples of 15.369 Term Paper Assignments
 
-*   ["Entrepreneurship at Google" (PDF)]({{< baseurl >}}/resources/mit15_369f15_student_paper) (Courtesy of Aakriti Bhakhri, Lisette Ludena, and Cheryl Silveri. Used with permission.)
-*   ["Hackathons as a Source of Entrepreneurship in Corporations" (PDF)]({{< baseurl >}}/resources/mit15_369f15_hackathons) (Courtesy of Carmen Maria Millan Chacartegui, Saurabh Dutta, and Scott Schreiner. Used with permission.)
+*   {{% resource_link e4d2b2aa-6b44-6c97-eda3-989c02872cd9 "\"Entrepreneurship at Google\" (PDF)" %}} (Courtesy of Aakriti Bhakhri, Lisette Ludena, and Cheryl Silveri. Used with permission.)
+*   {{% resource_link 0711ae05-f63c-2d4c-b93e-a29e256a4dcd "\"Hackathons as a Source of Entrepreneurship in Corporations\" (PDF)" %}} (Courtesy of Carmen Maria Millan Chacartegui, Saurabh Dutta, and Scott Schreiner. Used with permission.)

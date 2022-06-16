@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on meeting times, prerequisites, objectives, grading, requirements, teaching assistance
+  and help sessions, class sessions and readings, and the MIT Sloan policy on classroom
+  behavior.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -138,7 +142,7 @@ Class Sessions and Readings
 
 The course is divided into two main modules designed to cover areas of challenges and best practices for successful business building inside firms. The modules are highly connected. Therefore, while each session is standalone in that it focuses on a specific challenge area and best practice, we will build on previous sessions in each discussion.
 
-The primary text for this class is Burns, P. _Corporate Entrepreneurship: Entrepreneurship and Innovation in Large Organizations_. Palgrave Macmillan, 2013. ISBN: 9780230304031. \[Preview with [Google Books](http://books.google.com/books?id=_TQdBQAAQBAJ&pg=PAfrontcover)\]. A supplementary text is Morris, M. H., D. Kuratko, et al. _Corporate Entrepreneurship and Innovation_. Cengage Learning, 2010. ISBN: 9780538478922. \[Preview with [Google Books](http://books.google.com/books?id=5kYZgkKlFFgC&pg=PAfrontcover)\] which duplicates much material in Burns and also covers other topics. However, it is quite expensive and beyond the excerpts listed in the [Readings section]({{< baseurl >}}/pages/readings) is unnecessary to purchase for this course.
+The primary text for this class is Burns, P. _Corporate Entrepreneurship: Entrepreneurship and Innovation in Large Organizations_. Palgrave Macmillan, 2013. ISBN: 9780230304031. \[Preview with [Google Books](http://books.google.com/books?id=_TQdBQAAQBAJ&pg=PAfrontcover)\]. A supplementary text is Morris, M. H., D. Kuratko, et al. _Corporate Entrepreneurship and Innovation_. Cengage Learning, 2010. ISBN: 9780538478922. \[Preview with [Google Books](http://books.google.com/books?id=5kYZgkKlFFgC&pg=PAfrontcover)\] which duplicates much material in Burns and also covers other topics. However, it is quite expensive and beyond the excerpts listed in the {{% resource_link 859c0470-06ed-ebec-b5d8-28a13583a61c "Readings section" %}} is unnecessary to purchase for this course.
 
 MIT Sloan Policy on Classroom Behavior
 --------------------------------------

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments, including
+  pre-class surveys, a term paper, and a personal career reflection. Examples of student
+  work are also provided.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,7 +29,7 @@ There are two options for the paper:
 
 Form a team of at least two and not more than three classmates. Select one or the other of the following topics for your study:
 
-**Option 1: Tool or Method:** Pick a tool or method of interest to you, either internal or external. Using the literature and / or interviews prepare a report on how that method is currently being used and if it is being met with success. Example topics can be found in the Glossary: Kiefer, C. [Monograph: "Notes on the Practice of Corporate Entrepreneurship" (PDF)]({{< baseurl >}}/resources/mit15_369f15_prcticecrprt), 2016, pp. 56–59.
+**Option 1: Tool or Method:** Pick a tool or method of interest to you, either internal or external. Using the literature and / or interviews prepare a report on how that method is currently being used and if it is being met with success. Example topics can be found in the Glossary: Kiefer, C. {{% resource_link ea039c45-dd32-8296-ed7e-18619e25c282 "Monograph: \"Notes on the Practice of Corporate Entrepreneurship\" (PDF)" %}}, 2016, pp. 56–59.
 
 **Option 2: Company:** Pick a firm that you are interested in and contact one to three people who are knowledgeable about the firm's Corporate Entrepreneurship efforts. Your firm can be found in the literature, in Internet research, introductions from classmates, in our course textbook Corporate Entrepreneurship by Burns, a former employer or a company you are simply interested in, perhaps as a future employer. Use the Corporate Entrepreneurship Interview Guide and / or any additional questions of your own. What is CE to their firm? Why is it important? What challenges do they face? What tools and methods are they having success with (both inside and outside the firm)? Do they have a formal, managed approach to becoming more entrepreneurial and, if so, what is it?
 
@@ -38,7 +41,7 @@ In either case as a team summarize your findings in an approximately five and no
 
 You will receive comments by the teaching staff and by other classmates (voluntary). Your final paper is due the last week of class.
 
-[Corporate Entrepreneurship Interview Guide (PDF)]({{< baseurl >}}/resources/mit15_369f15_corpratguide)
+{{% resource_link 81915155-e372-0645-9bb0-864401b190e9 "Corporate Entrepreneurship Interview Guide (PDF)" %}}
 
 Personal Career Reflection
 --------------------------
@@ -50,10 +53,10 @@ Student Deliverables
 
 ### Examples of 15.369 Term Paper Assignments
 
-["Entrepreneurship at Google" (PDF)]({{< baseurl >}}/resources/mit15_369f15_student_paper) (Courtesy of Aakriti Bhakhri, Lisette Ludena, and Cheryl Silveri. Used with permission.)
+{{% resource_link e4d2b2aa-6b44-6c97-eda3-989c02872cd9 "\"Entrepreneurship at Google\" (PDF)" %}} (Courtesy of Aakriti Bhakhri, Lisette Ludena, and Cheryl Silveri. Used with permission.)
 
-["Hackathons as a Source of Entrepreneurship in Corporations" (PDF)]({{< baseurl >}}/resources/mit15_369f15_hackathons) (Courtesy of Carmen Maria Millan Chacartegui, Saurabh Dutta, and Scott Schreiner. Used with permission.)
+{{% resource_link 0711ae05-f63c-2d4c-b93e-a29e256a4dcd "\"Hackathons as a Source of Entrepreneurship in Corporations\" (PDF)" %}} (Courtesy of Carmen Maria Millan Chacartegui, Saurabh Dutta, and Scott Schreiner. Used with permission.)
 
 ### Student Thesis on Corporate Entrepreneurship
 
-Tseng Kamm, Lucia. ["How to Apply Entrepreneurial Tools to Corporations—Easily!" (PDF - 1.1MB)]({{< baseurl >}}/resources/mit15_369f15_thesisfinal) _MIT Thesis_, June 2015.
+Tseng Kamm, Lucia. {{% resource_link 4928c825-8e0e-ebf2-d72f-872586bfd0d4 "\"How to Apply Entrepreneurial Tools to Corporations—Easily!\" (PDF - 1.1MB)" %}} _MIT Thesis_, June 2015.
