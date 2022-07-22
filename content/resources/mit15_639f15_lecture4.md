@@ -5,6 +5,7 @@ file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/fe39f4d0b1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 4 - Inside Large Organizations: The Innovator - 15.369 - Fall 20
 uid: fe39f4d0-b1d4-2a0c-5873-42377343f0b1
 ---
 This resource contains information regarding lecture 4 the innovator.
-

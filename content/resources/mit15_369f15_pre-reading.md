@@ -5,6 +5,7 @@ file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/f24ec4bbe6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_369F15_Pre-Reading
 uid: f24ec4bb-e69a-99b5-9a0b-df570e9c82e5
 ---
 This file contains information regarding pre-reading for session 4.
-

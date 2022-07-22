@@ -5,6 +5,7 @@ file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/32e67dbee1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lectures 1-2 Uncertainty - Entrepreneurship in Large Organizations - 15.3
 uid: 32e67dbe-e106-e110-fa46-900e335ed21c
 ---
 This resource contains information regarding lecture 1-2 uncertainty.
-

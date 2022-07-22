@@ -6,6 +6,7 @@ file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/81915155e3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Corporate Entrepreneurship Interview Guide - 15.369 Fall 2015
 uid: 81915155-e372-0645-9bb0-864401b190e9
 ---
 This file contains information regarding corporate entrepreneurship interview guide. 
-

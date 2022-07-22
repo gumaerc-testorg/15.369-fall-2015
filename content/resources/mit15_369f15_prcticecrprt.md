@@ -6,6 +6,7 @@ file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/ea039c45dd
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Monograph: "Notes on the Practice of Corporate Entrepreneurship" - 15.36
 uid: ea039c45-dd32-8296-ed7e-18619e25c282
 ---
 This file contains information regarding monograph: notes on the practice of corporate entrepreneurship.
-

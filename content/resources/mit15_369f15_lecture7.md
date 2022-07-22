@@ -5,6 +5,7 @@ file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/0cbabd7042
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Class_7_Lecture-Slides.pdf
 uid: 0cbabd70-42cb-0bf9-9c8f-8b77a32a7aa1
 ---
 This file contains information regarding lecture 7 wrap up.
-
