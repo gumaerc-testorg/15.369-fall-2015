@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, descriptions of
+  each lecture, a list of guests, and the lecture notes used for each session of the
+  course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f8eb7c14-01a3-3db1-a928-6be3e5dfc578
 ---
@@ -46,7 +52,7 @@ Jon Garrity, formerly of General Electric.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction (PDF)]({{< baseurl >}}/resources/mit15_369f15_lecture1)
+{{% resource_link 2cf7ec65-09da-6b7b-c483-541ca55360d7 "Introduction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +76,7 @@ Safely navigating a corporate architecture that is not friendly to entrepreneuri
 Mitra Best, US Innovation Leader at PricewaterhouseCoopers. Mitra spent 12 years as an entrepreneur before joining PwC where she has been an intrapreneur for the past 15 years. She will share her observations on the differences between being an entrepreneur and intrapreneur, and in particular what it takes to innovate successfully within a large and conservative organization with strong roots in the traditions of accounting and auditing.
 {{< tdclose >}}
 {{< tdopen >}}
-[Uncertainty (PDF - 3.7MB)]({{< baseurl >}}/resources/mit15_639f15_lecture1-2)
+{{% resource_link 32e67dbe-e106-e110-fa46-900e335ed21c "Uncertainty (PDF - 3.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +118,7 @@ The logic of thought and action employed by entrepreneurs inside large organizat
 Robert P. Messner, Ph.D. Senior Lab Manager, 3M Company. 3M's structures and processes for innovation are legendary. Bob will be sharing how they work, how they have evolved and what challenges are still being encountered.
 {{< tdclose >}}
 {{< tdopen >}}
-[The Innovator (PDF)]({{< baseurl >}}/resources/mit15_639f15_lecture4)
+{{% resource_link fe39f4d0-b1d4-2a0c-5873-42377343f0b1 "The Innovator (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +160,7 @@ Dyan Finkhousen: Director, Open Innovation & Advanced Manufacturing geniusLinkâ€
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Open Innovation (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15_369f15_lecture6)
+{{% resource_link a4172d37-dd09-5432-cb01-43fd62f90006 "Open Innovation (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +184,7 @@ Ned Calder, Partner and Co-Head of Innosight's Technology and Industrial Practic
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Wrap Up (PDF)]({{< baseurl >}}/resources/mit15_369f15_lecture7)
+{{% resource_link 0cbabd70-42cb-0bf9-9c8f-8b77a32a7aa1 "Wrap Up (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

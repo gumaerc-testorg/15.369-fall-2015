@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings assigned for
+  each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 859c0470-06ed-ebec-b5d8-28a13583a61c
 ---
@@ -8,7 +13,7 @@ uid: 859c0470-06ed-ebec-b5d8-28a13583a61c
 
 \[CE&I\] = Morris, M. H., D. Kuratko, et al. _Corporate Entrepreneurship and Innovation_. Cengage Learning, 2010. ISBN: 9780538478922. \[Preview with [Google Books](http://books.google.com/books?id=5kYZgkKlFFgC&pg=PAfrontcover)\]
 
-\[Kiefer\] = Kiefer, C. [Monograph: "Notes on the Practice of Corporate Entrepreneurship." (PDF)]({{< baseurl >}}/resources/mit15_369f15_prcticecrprt) 2016.
+\[Kiefer\] = Kiefer, C. {{% resource_link ea039c45-dd32-8296-ed7e-18619e25c282 "Monograph: \"Notes on the Practice of Corporate Entrepreneurship.\" (PDF)" %}} 2016.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -82,7 +87,7 @@ Ancona, D., T. Kochan, E. Westney, and J. Van Maanen. "The Political Lens." Teac
 Corporate Entrepreneurship Frameworks
 {{< tdclose >}}
 {{< tdopen >}}
-[Pre-reading for Session 4 (PDF)]({{< baseurl >}}/resources/mit15_369f15_pre-reading)
+{{% resource_link f24ec4bb-e69a-99b5-9a0b-df570e9c82e5 "Pre-reading for Session 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
