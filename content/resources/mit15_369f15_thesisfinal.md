@@ -3,6 +3,7 @@ content_type: resource
 description: "This file contains information regarding how to apply entrepreneurial\
   \ tools to corporations\u2014easily thesis."
 file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/4928c8258e0eebf2d72f872586bfd0d4_MIT15_369F15_ThesisFinal.pdf
+file_size: 1137800
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
