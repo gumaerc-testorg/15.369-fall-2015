@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/0711ae05f63c2d4cb93ea29e256a4dcd_MIT15_369F15_Hackathons.pdf
+file_size: 157151
 file_type: application/pdf
 learning_resource_types:
 - Assignments
