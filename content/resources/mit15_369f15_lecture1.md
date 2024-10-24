@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 1 introduction.
-file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/2cf7ec6509da6b7bc483541ca55360d7_MIT15_369F15_Lecture1.pdf
+file: /ol-ocw-studio-app/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/2cf7ec6509da6b7bc483541ca55360d7_MIT15_369F15_Lecture1.pdf
 file_size: 429357
 file_type: application/pdf
 learning_resource_types:
