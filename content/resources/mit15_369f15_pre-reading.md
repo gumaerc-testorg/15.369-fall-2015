@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding pre-reading for session 4.
-file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/f24ec4bbe69a99b59a0bdf570e9c82e5_MIT15_369F15_Pre-Reading.pdf
+file: /ol-ocw-studio-app/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/f24ec4bbe69a99b59a0bdf570e9c82e5_MIT15_369F15_Pre-Reading.pdf
 file_size: 376723
 file_type: application/pdf
 learning_resource_types:
