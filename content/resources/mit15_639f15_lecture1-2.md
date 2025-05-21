@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 1-2 uncertainty.
-file: /ol-ocw-studio-app/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/32e67dbee106e110fa46900e335ed21c_MIT15_639F15_Lecture1-2.pdf
+file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/32e67dbee106e110fa46900e335ed21c_MIT15_639F15_Lecture1-2.pdf
 file_size: 3863065
 file_type: application/pdf
 learning_resource_types:
