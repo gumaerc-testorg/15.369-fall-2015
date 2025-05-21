@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This page contains information regarding entrepreneurship at google.
-file: /ol-ocw-studio-app/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/e4d2b2aa6b446c97eda3989c02872cd9_MIT15_369F15_Student_Paper.pdf
+file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/e4d2b2aa6b446c97eda3989c02872cd9_MIT15_369F15_Student_Paper.pdf
 file_size: 636205
 file_type: application/pdf
 learning_resource_types:

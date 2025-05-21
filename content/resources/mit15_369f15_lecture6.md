@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 6 open innovation.
-file: /ol-ocw-studio-app/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/a4172d37dd095432cb0143fd62f90006_MIT15_369F15_Lecture6.pdf
+file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/a4172d37dd095432cb0143fd62f90006_MIT15_369F15_Lecture6.pdf
 file_size: 1281733
 file_type: application/pdf
 learning_resource_types:
