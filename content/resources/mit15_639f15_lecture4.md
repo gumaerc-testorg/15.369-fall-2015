@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 4 the innovator.
-file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/fe39f4d0b1d42a0c587342377343f0b1_MIT15_639F15_Lecture4.pdf
+file: /ol-ocw-studio-app/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/fe39f4d0b1d42a0c587342377343f0b1_MIT15_639F15_Lecture4.pdf
 file_size: 247797
 file_type: application/pdf
 learning_resource_types:

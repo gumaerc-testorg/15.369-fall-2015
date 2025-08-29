@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding monograph: notes on the practice
   of corporate entrepreneurship.'
-file: /courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/ea039c45dd328296ed7e18619e25c282_MIT15_369F15_PrcticeCrprt.pdf
+file: /ol-ocw-studio-app/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/ea039c45dd328296ed7e18619e25c282_MIT15_369F15_PrcticeCrprt.pdf
 file_size: 847235
 file_type: application/pdf
 learning_resource_types:
