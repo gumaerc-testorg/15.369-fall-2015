@@ -9,9 +9,9 @@ title: Readings
 uid: 859c0470-06ed-ebec-b5d8-28a13583a61c
 ---
 
-\[CE\] = Burns, P. _Corporate Entrepreneurship: Entrepreneurship and Innovation in Large Organizations_. Palgrave Macmillan, 2013. ISBN: 9780230304031. \[Preview with [Google Books](http://books.google.com/books?id=_TQdBQAAQBAJ&pg=PAfrontcover)\]
+\[CE\] = Burns, P. _Corporate Entrepreneurship: Entrepreneurship and Innovation in Large Organizations_. Palgrave Macmillan, 2013. ISBN: 9780230304031. \[Preview with {{% resource_link "08625b8d-ab00-450e-80b2-8d672e36de74" "Google Books" %}}\]
 
-\[CE&I\] = Morris, M. H., D. Kuratko, et al. _Corporate Entrepreneurship and Innovation_. Cengage Learning, 2010. ISBN: 9780538478922. \[Preview with [Google Books](http://books.google.com/books?id=5kYZgkKlFFgC&pg=PAfrontcover)\]
+\[CE&I\] = Morris, M. H., D. Kuratko, et al. _Corporate Entrepreneurship and Innovation_. Cengage Learning, 2010. ISBN: 9780538478922. \[Preview with {{% resource_link "2ed86308-978f-4691-97f5-e9181cc46e38" "Google Books" %}}\]
 
 \[Kiefer\] = Kiefer, C. {{% resource_link ea039c45-dd32-8296-ed7e-18619e25c282 "Monograph: \"Notes on the Practice of Corporate Entrepreneurship.\" (PDF)" %}} 2016.
 
@@ -109,7 +109,7 @@ Part 2: Managing the Entrepreneur Inside
 
 \[CE\] pp. 90–93 and 225–9.
 
-Hindo, B. "[At 3M, A Struggle between Efficiency and Creativity](http://www.bloomberg.com/news/articles/2007-06-10/at-3m-a-struggle-between-efficiency-and-creativity)." _BusinessWeek._ June 11, 2007.
+Hindo, B. "{{% resource_link "15e52de2-f5f9-4867-9d04-45449fc8a679" "At 3M, A Struggle between Efficiency and Creativity" %}}." _BusinessWeek._ June 11, 2007.
 
 3M Innovation Brochure, Pages 10–12 on History of Innovation.
 
@@ -139,7 +139,7 @@ Designing the Entrepreneurial Organization. Leadership and the Role of the Execu
 
 Delker, Wayne. "A Brief History of Clorox."
 
-Christensen, C. M., S. P. Kaufman, and W. C. Shih. [_Innovation Killers: How Financial Tools Destroy Your Capacity to Do New Things_](https://hbr.org/2008/01/innovation-killers-how-financial-tools-destroy-your-capacity-to-do-new-things). Harvard Business Review Press, 2010.
+Christensen, C. M., S. P. Kaufman, and W. C. Shih. {{% resource_link "523ba5d4-8b40-46a4-948b-232b27c90673" "_Innovation Killers: How Financial Tools Destroy Your Capacity to Do New Things_" %}}. Harvard Business Review Press, 2010.
 
 ### Optional
 
@@ -157,17 +157,17 @@ Accelerating new business growth: The external tools and methods that can be emp
 {{< tdopen >}}
 
 
-_Case_: Chesbrough, Henry W. "[GE's Ecomagination Challenge: An Experiment in Open Innovation](https://journals.sagepub.com/doi/10.1525/cmr.2012.54.3.140)." _Berkeley-Haas Case Series_. Case: B5672, 2012.
+_Case_: Chesbrough, Henry W. "{{% resource_link "85e016fd-816c-4cb0-b14f-f87dc6b13b8d" "GE's Ecomagination Challenge: An Experiment in Open Innovation" %}}." _Berkeley-Haas Case Series_. Case: B5672, 2012.
 
 \[CE\] Chapter 8, pp. 251–65.
 
 \[CE&I\] Chapter 4, pp. 109–11.
 
-Chesbrough, H. "[The Era of Open Innovation](http://sloanreview.mit.edu/article/the-era-of-open-innovation/)." _Sloan Review_, Spring 2003.
+Chesbrough, H. "{{% resource_link "7f32d919-db0b-4e71-9f9d-0963b3996776" "The Era of Open Innovation" %}}." _Sloan Review_, Spring 2003.
 
 ### Optional
 
-Stinson, Liz. "[How GE Plans to Act like a Startup and Crowdsource Breakthrough Ideas](http://www.wired.com/2014/04/how-ge-plans-to-act-like-a-startup-and-crowdsource-great-ideas/)." _Wired_. April 11, 2014.
+Stinson, Liz. "{{% resource_link "ee9461f7-1174-4dfc-88a8-f3d425362b97" "How GE Plans to Act like a Startup and Crowdsource Breakthrough Ideas" %}}." _Wired_. April 11, 2014.
 
 
 {{< tdclose >}}
@@ -185,17 +185,17 @@ Managing an "entrepreneur friendly" organization—architecture and culture
 
 \[CE\] Chapter 5.
 
-Brown, B., and S. Anthony. "[How P&G Tripled Its Innovation Success Rate](https://hbr.org/2011/06/how-pg-tripled-its-innovation-success-rate)." _Harvard Business Review_, June 2011. \[[Download from innosight.com](http://www.innosight.com/innovation-resources/how-pg-tripled-its-innovation-success-rate.cfm)\]
+Brown, B., and S. Anthony. "{{% resource_link "87c54aaf-1e0d-4406-b38f-8b9c8f5903f0" "How P&G Tripled Its Innovation Success Rate" %}}." _Harvard Business Review_, June 2011. \[{{% resource_link "0473497b-d81c-44e6-a5b3-4f8c336a5bce" "Download from innosight.com" %}}\]
 
-Nagji, B., and G. Tuff. "[Managing Your Innovation Portfolio](https://hbr.org/2012/05/managing-your-innovation-portfolio)." _Harvard Business Review_, May 2012.
+Nagji, B., and G. Tuff. "{{% resource_link "a50b3545-81c0-4ddb-a6f6-4294ca855e5c" "Managing Your Innovation Portfolio" %}}." _Harvard Business Review_, May 2012.
 
-Keeley, L., H. Walters, R. Pikkel, et al. Chapters 1, 2, 18, and 19 in _Ten Types of Innovation: The Discipline of Building Breakthroughs_. Wiley, 2013. ISBN: 9781118504246. \[Preview with [Google Books](http://books.google.com/books?id=TW4YAAAAQBAJ&pg=PAfrontcover)\]
+Keeley, L., H. Walters, R. Pikkel, et al. Chapters 1, 2, 18, and 19 in _Ten Types of Innovation: The Discipline of Building Breakthroughs_. Wiley, 2013. ISBN: 9781118504246. \[Preview with {{% resource_link "67b2ccff-84c6-46fc-9802-bad1d4d97e7a" "Google Books" %}}\]
 
 ### Optional
 
 Ancona, D., T. Kochan, E. Westney, and J. Van Maanen. "The Cultural Lens." Teaching Note 12–140.
 
-Gilbert, C.G. "[Two Routes to Resilience](https://hbr.org/2012/12/two-routes-to-resilience)." _Harvard Business Review_, December 2012. \[[Download from innosight.com](http://www.innosight.com/innovation-resources/two-routes-to-resilience-article.cfm)\]
+Gilbert, C.G. "{{% resource_link "06179d80-8763-44ba-9e59-6380768e1840" "Two Routes to Resilience" %}}." _Harvard Business Review_, December 2012. \[{{% resource_link "6446ed6f-2112-4880-8d23-bcabf210f29e" "Download from innosight.com" %}}\]
 
 
 {{< tdclose >}}
